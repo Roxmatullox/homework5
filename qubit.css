@@ -1,0 +1,32 @@
+.btn1 {
+  border-radius: 30px;
+  background-color: blueviolet;
+  color: white;
+  width: 189px;
+  height: 40px;
+}
+
+.btn2 {
+  border-radius: 30px;
+  background-color: white;
+  color: blueviolet;
+  width: 187px;
+  height: 40px;
+}
+
+.div2 button{
+  display: inline-block;
+  height: 205px ;
+  width: 320px;
+  top: -10;
+}
+
+.div3 button {
+border-radius: 10px;
+height: 199px;
+width: 493px;
+background-color: #17002E;
+color: white;
+}
+
+
